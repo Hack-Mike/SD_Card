@@ -6,3 +6,6 @@
 #define SD_CARD_SD_CARD_H
 
 #endif //SD_CARD_SD_CARD_H
+
+
+void SD_main(void);
